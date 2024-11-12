@@ -1,5 +1,6 @@
 # Optimización
 
+url: https://hakufer.github.io/optimizacion/
 
 # Ejercicio 1 
 

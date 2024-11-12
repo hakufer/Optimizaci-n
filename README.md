@@ -1,1 +1,5 @@
-# Optimizaci-n
+# Optimización
+
+
+# Ejercicio 1 
+

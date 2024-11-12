@@ -5,7 +5,7 @@
 
 
 ### Intento 1
-![Intento 1](Optimizaci-n/intento_1.png)
+![Intento 1](intento%201.png)
 
 
 El resultado indica que se debe combinar ambos suplementos para satisfacer las necesidades nutricionales de la manera más económica posible. En este caso, debes adquirir 3.13 tabletas de Happy Health y 1.30 tabletas de Vega Vita. Dado que los suplementos normalmente vienen en cantidades enteras, puede ser necesario redondear los valores
